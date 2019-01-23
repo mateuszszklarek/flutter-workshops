@@ -22,7 +22,15 @@ footer: © Tailor your ![7%](images/swift_logo.png)
 
 ---
 
-Flutter is currently officially supported on Android Studio, IntelliJ Idea, and Visual Studio Code.
+### Reactive cross-platform mobile development framework that uses Dart language
+
+---
+
+# **IDE**
+
+• Android Studio, 
+• IntelliJ Idea,
+• Visual Studio Code.
 
 ---
 
