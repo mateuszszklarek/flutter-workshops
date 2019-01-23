@@ -1,4 +1,4 @@
-import 'package:app/pages/my_home_page.dart';
+import 'package:app/pages/movies_page.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.red,
       ),
-      home: MyHomePage(title: 'Flutter Demo Home Page'),
+      home: MoviesPage(),
     );
   }
 }
