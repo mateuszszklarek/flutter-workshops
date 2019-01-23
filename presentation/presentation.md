@@ -139,4 +139,31 @@ return ViewB(
 
 ---
 
-# CONCLUSION
+# Repository
+```sh
+git clone git@github.com:mateuszszklarek/flutter-workshops.git
+```
+
+---
+
+![fit](images/quick_assist.png)
+
+---
+
+# PROS
+
++ quite new (first release May 2017)
++ hot reload
++ IDE ❤️
++ documentation ❤️
+
+---
+
+# CONS
+
+- quite new (May 2017) - small amount of libraries
+- performance? ¯\_(ツ)_/¯
+
+---
+
+# THANKS
