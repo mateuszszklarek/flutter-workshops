@@ -105,7 +105,7 @@ return ViewB(
 ## **TYPES OF WIDGET**
 
 1. Stateless**Widget**
-2. Statefull**Widget**
+2. Stateful**Widget**
 
 ---
 
@@ -152,19 +152,17 @@ git clone git@github.com:mateuszszklarek/flutter-workshops.git
 
 [.build-lists: false]
 
-1. StatelessWidget -> StatefullWidget
+1. StatelessWidget -> StatefulWidget
 2. Add LinearGradient 
 3. Implement static ListView
 4. Connect data source
 5. Implement pagination
 6. Finish UI
 
-
 ---
 
 # PROS
 
-+ quite new (first release May 2017)
 + hot reload
 + IDE ❤️
 + documentation ❤️
